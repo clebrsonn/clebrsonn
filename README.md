@@ -36,6 +36,7 @@
 ###
 
 <br clear="both">
-<img href="https://raw.githubusercontent.com/clebrsonn/clebrsonn/output/snake.svg" alt="Snake animation" />
+
+![https://raw.githubusercontent.com/clebrsonn/clebrsonn/output/snake.svg](https://github.com/clebrsonn/clebrsonn/blob/output/snake.svg)
 
 ###

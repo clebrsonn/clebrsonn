@@ -36,7 +36,4 @@
 ###
 
 <br clear="both">
-
-![https://raw.githubusercontent.com/clebrsonn/clebrsonn/output/snake.svg](https://github.com/clebrsonn/clebrsonn/blob/output/snake.svg)
-
 ###
